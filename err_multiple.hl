@@ -1,0 +1,7 @@
+x: integer;
+y: double
+x:= 5
+z:= 3;
+output<<w;
+if(x<5
+  output<<x;

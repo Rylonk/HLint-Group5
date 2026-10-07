@@ -1,0 +1,7 @@
+x: integer;
+x:=5;
+if(x>4) output<<"gt";
+if(x==5) output<<"eq";
+if(x!=4) output<<"ne";
+if(x<6) output<<"lt";
+if(x>5) output<<"BAD";

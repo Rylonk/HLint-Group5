@@ -1,0 +1,6 @@
+x: integer;
+y: double;
+x = 3 + 2;
+y = 4 + 2.56;
+output<<x;
+output<<y;

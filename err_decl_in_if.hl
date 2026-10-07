@@ -1,0 +1,4 @@
+x: integer;
+x:=1;
+if(x<5)
+  y: integer;

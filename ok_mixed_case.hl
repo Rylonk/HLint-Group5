@@ -1,0 +1,4 @@
+X: Integer;
+X:=6;
+If(X<9)
+  Output<<X;

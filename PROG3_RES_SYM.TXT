@@ -1,0 +1,17 @@
+LINE  CATEGORY       LEXEME
+----  -------------  ------
+1     SYMBOL         :
+1     RESERVED WORD  integer
+1     SYMBOL         ;
+2     SYMBOL         :
+2     RESERVED WORD  double
+2     SYMBOL         ;
+3     SYMBOL         :=
+3     SYMBOL         ;
+4     RESERVED WORD  if
+4     SYMBOL         (
+4     SYMBOL         <
+4     SYMBOL         )
+5     RESERVED WORD  output
+5     SYMBOL         <<
+5     SYMBOL         ;

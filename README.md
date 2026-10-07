@@ -90,3 +90,8 @@ Ask your instructor about the ones that matter for grading.
 `tests/cases/*.hl` are small HL programs (13 valid, 16 invalid) and `*.expected`
 holds the exact screen output for each. `make test` runs them all and also
 checks the contents of `NOSPACES.TXT` and `RES_SYM.TXT` for PROG3.
+
+
+## Video Presentation
+https://drive.google.com/file/d/1qH-7HszCeKEbynDRY0c5zmQ0z10AHaBu/view?usp=sharing
+- The file was too big so it cannot be uploaded here
